@@ -1,5 +1,5 @@
 # IMMAGINI 
-## Esercizi in HTML e CSS sulle Immagini
+## Esercizi in CSS sulle Immagini
 *Novembre 2025*
 🧑‍💻
 
